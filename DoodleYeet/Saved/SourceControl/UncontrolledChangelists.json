@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Programi/GameJamFMI2024/DoodleYeet/Content/__ExternalActors__/ThirdPerson/Maps/DemoYoncho/1/UT/0NTQFELY9ZULTDPZ5LJP8P.uasset",
+				"D:/Programi/GameJamFMI2024/DoodleYeet/Content/__ExternalActors__/ThirdPerson/Maps/DemoYoncho/7/IM/VKYKA5E9DMUDKO3V0VISMF.uasset",
+				"D:/Programi/GameJamFMI2024/DoodleYeet/Content/__ExternalActors__/ThirdPerson/Maps/DemoYoncho/E/XC/TING7HEPSVECOZANXQ2LVW.uasset",
+				"D:/Programi/GameJamFMI2024/DoodleYeet/Content/__ExternalActors__/ThirdPerson/Maps/DemoYoncho/0/TS/W9IWKY6BRHE5QYODJT8LMD.uasset"
+			]
+		}
+	]
+}
