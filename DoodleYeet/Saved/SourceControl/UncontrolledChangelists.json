@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lache/Documents/GameJams/GameJamFMI2024/DoodleYeet/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/lache/Documents/GameJams/GameJamFMI2024/DoodleYeet/Content/ThirdPerson/Blueprints/BP_CameraManager.uasset",
+				"C:/Users/lache/Documents/GameJams/GameJamFMI2024/DoodleYeet/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap1/8/IO/3SHNQS6K4M65ER1JC8GAJM.uasset",
+				"C:/Users/lache/Documents/GameJams/GameJamFMI2024/DoodleYeet/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap1/A/9V/XBTENOHP4XEQIMU0JCIBUX.uasset",
 				"C:/Users/Chill PC/Documents/GameJam/GameJamFMI2024/DoodleYeet/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Chill PC/Documents/GameJam/GameJamFMI2024/DoodleYeet/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Chill PC/Documents/GameJam/GameJamFMI2024/DoodleYeet/Content/ThirdPerson/Blueprints/BP_CameraManager.uasset",
